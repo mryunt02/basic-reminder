@@ -1,6 +1,4 @@
 {
-  "homepage": "https://mryunt02.github.io/basic-reminder",
-  "name": "my-web-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
